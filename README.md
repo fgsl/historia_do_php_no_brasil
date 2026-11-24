@@ -21,3 +21,7 @@ O sumário ainda não está definido. É algo que vai ser construído conforme e
 ## Como contribuir
 
 Faça um fork, crie uma pasta, escreva seu relato em um arquivo .md e faça um pull request. Conforme as contribuições chegarem, vamos organizando a estrutura deste repositório.
+
+## Relatos
+
+- [PHPRio: das listas de discussão ao cooperativismo de tecnologia](phprio/relato-vitor-mattos.md) — Vitor Mattos
