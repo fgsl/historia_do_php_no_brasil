@@ -8,15 +8,15 @@ A história da comunidade PHP do Rio de Janeiro remonta a uma época em que as l
 
 Em 15 de maio de 2007, foi criado no Yahoo Groups o grupo PHPRio, destinado à organização dos profissionais PHP do estado do Rio de Janeiro. Sua descrição já manifestava a preocupação com o acolhimento de iniciantes e o incentivo ao aprendizado da linguagem. A abrangência estadual estava presente desde a origem: a proposta nunca foi restringir as atividades à capital.[^yahoo2008][^yahoo2019]
 
-Naquele mesmo ano, a movimentação em torno do PHP também acontecia fora da capital. Em 24 de novembro de 2007, o Laboratório Nacional de Computação Científica (LNCC), em Petrópolis, sediou o phpNow!. Entre os palestrantes anunciados estavam [Manuel Lemos](https://www.phpclasses.org/browse/author/1.html), criador do PHP Classes, [Pablo Dall'Oglio](https://github.com/pablodalloglio), autor de livros sobre PHP e criador da comunidade brasileira de PHP-GTK, e Angélica Brunetto, professora da Universidade Estadual de Londrina (UEL) e doutora em Ciência da Computação. A divulgação do workshop também anunciava profissionais da IBM, do Instituto Militar de Engenharia (IME) e da COPPE/UFRJ.[^phpnow][^phpnowsite]
+Naquele mesmo ano, a movimentação em torno do PHP também acontecia fora da capital. Em 24 de novembro de 2007, o Laboratório Nacional de Computação Científica (LNCC), em Petrópolis, sediou o phpNow!. Entre os palestrantes anunciados estavam [Manuel Lemos](https://www.phpclasses.org/browse/author/1.html), criador do PHP Classes, [Pablo Dall'Oglio](https://github.com/pablodalloglio), autor de livros sobre PHP e criador da comunidade brasileira de PHP-GTK, e [Maria Angélica de Oliveira Camargo Brunetto](https://www.escavador.com/sobre/3223067/maria-angelica-de-oliveira-camargo-brunetto), professora da Universidade Estadual de Londrina (UEL) e doutora em Ciência da Computação. A divulgação do workshop também anunciava profissionais da IBM, do Instituto Militar de Engenharia (IME) e da COPPE/UFRJ.[^phpnow][^phpnowsite]
 
-O evento aparece no currículo de Pablo Dall'Oglio, que registra uma apresentação sobre PHP-GTK2, e no de Rodrigo Luis de Souza da Silva, que participou da organização. Anos depois, a equipe da Petrosite, de Petrópolis, ainda recordava o phpNow! ao comentar sua experiência no PHP'n Rio de 2011.[^phpnowpablo][^phpnowrodrigo][^petrosite2011]
+O evento aparece no currículo de Pablo Dall'Oglio, que registra uma apresentação sobre PHP-GTK2, no de Maria Angélica Brunetto, com a palestra sobre aprendizagem de métodos numéricos e algébricos na web usando PHP, e no de [Rodrigo Luis de Souza da Silva](https://www.gcg.ufjf.br/), que participou da organização.[^phpnowangelica] Anos depois, a equipe da Petrosite, de Petrópolis, ainda recordava o phpNow! ao comentar sua experiência no PHP'n Rio de 2011.[^phpnowpablo][^phpnowrodrigo][^petrosite2011]
 
 Em setembro de 2008, o grupo do Yahoo contabilizava 72 associados. Apesar da existência desse espaço, a comunidade atravessava um período de pouca atividade. Segundo relatos recuperados posteriormente, havia dificuldades relacionadas à administração da lista e à entrada de novos participantes.[^yahoo2008][^migracao]
 
 Minha participação na comunidade vem desde a época do Yahoo Groups. Em 2008, além das dificuldades com a administração da lista, lembro que havia uma preocupação entre os participantes quanto à continuidade da plataforma. Na época, fui uma das pessoas que incentivaram a criação de uma nova lista no Google Groups.
 
-A mudança coincidiu com um período de retomada das atividades do PHPRio. Foi nesse contexto que profissionais como [Igor Feghali](https://github.com/ifeghali), [Raphael de Almeida](https://br.linkedin.com/in/raphaeldealmeida), [Igor Santos](https://github.com/igorsantos07), Libene e outros integrantes daquela geração se mobilizaram para reorganizar a comunidade, conforme recordado por Bruno Araujo em uma conversa realizada em 2018.[^bruno]
+A mudança coincidiu com um período de retomada das atividades do PHPRio. Foi nesse contexto que profissionais como [Igor Feghali](https://github.com/ifeghali), [Raphael de Almeida](https://br.linkedin.com/in/raphaeldealmeida), [Igor Santos](https://github.com/igorsantos07), [Líbene Fernandes](https://github.com/libene) e outros integrantes daquela geração se mobilizaram para reorganizar a comunidade, conforme recordado por [Bruno Araujo](https://github.com/brunosinister) em uma conversa realizada em 2018.[^bruno]
 
 Em 1º de novembro de 2008, o portal BR-Linux publicou uma notícia anunciando a reativação do PHPRio. Entre os primeiros encontros presenciais dessa fase, realizavam-se reuniões em restaurantes, como o Outback do Shopping Tijuca, onde há registros de um encontro possivelmente realizado em 7 de novembro de 2008.[^reativacao][^cronologia]
 
@@ -32,14 +32,14 @@ Essa reorganização aconteceu em um momento importante para o PHP no Brasil, ma
 
 Em 2009, a comunidade deu um passo importante com a realização da primeira edição do PHP'n Rio, conferência que passaria a integrar o calendário de eventos de tecnologia do estado.
 
-A primeira edição aconteceu em 3 de julho de 2009, no Instituto Infnet, e foi divulgada internacionalmente pelo site oficial do PHP. A programação trazia como keynote [Jan Schneider](https://github.com/yunosh), desenvolvedor do núcleo do projeto Horde, e uma palestra de Pedro Faria sobre a personalização de sites com Drupal, além do PHP TestFest, iniciativa de colaboração com os testes da própria linguagem PHP.[^php2009][^phpnrio09site]
+A primeira edição aconteceu em 3 de julho de 2009, no Instituto Infnet, e foi divulgada internacionalmente pelo site oficial do PHP. A programação trazia como keynote [Jan Schneider](https://github.com/yunosh), desenvolvedor do núcleo do projeto Horde, e uma palestra de [Pedro Faria](https://www.drupal.org/user/27805) sobre a personalização de sites com Drupal, além do PHP TestFest, iniciativa de colaboração com os testes da própria linguagem PHP.[^php2009][^phpnrio09site]
 
 Naquela época, Igor Feghali disponibilizava contas de e-mail com o domínio da comunidade para seus integrantes. Era uma forma de fortalecer o sentimento de pertencimento e estabelecer uma identidade coletiva. Um registro que ajuda a situar minha participação nesse período é o e-mail de boas-vindas à minha conta institucional do PHPRio, recebido em 23 de julho de 2009, quando eu já acompanhava a comunidade.[^email][^contas]
 
 As conferências continuaram nos anos seguintes:
 
 - Em 20 de novembro de 2010, aconteceu a segunda edição do PHP'n Rio, na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Inicialmente prevista para agosto, a conferência foi adiada por dificuldades na captação de recursos, sendo confirmada para novembro por Igor Feghali na lista PHP Rio Announce.[^php2010][^phpnrio10adiamento][^phpnrio10confirmacao]
-- Em 5 de novembro de 2011, a terceira edição foi realizada no CEFET-RJ, no Maracanã. Entre as apresentações registradas por participantes estão as de [Zeno Rocha](https://zenorocha.com/), sobre HTML5, [Jean Carlo Nascimento (Suissa)](https://github.com/suissa), sobre MongoDB com PHP, Marco Antônio Maciel, sobre a integração do PHP com Arduino, e Jefferson Souza, sobre aplicações móveis com jQuery Mobile. O site do evento anunciava também nomes como Haroldo Gamal, André Pfeiffer e [Thiago Belém](https://github.com/TiuTalk), com atividades sobre extensões PHP, certificação e desenvolvimento web. Zeno registrou a própria participação em uma retrospectiva publicada em dezembro daquele ano.[^php2011][^phpnrio11site][^phpnrio11grade][^petrosite2011][^zeno2011]
+- Em 5 de novembro de 2011, a terceira edição foi realizada no CEFET-RJ, no Maracanã. Entre as apresentações registradas por participantes estão as de [Zeno Rocha](https://zenorocha.com/), sobre HTML5, [Jean Carlo Nascimento (Suissa)](https://github.com/suissa), sobre MongoDB com PHP, [Marco Antônio Maciel](https://github.com/marcomaciel) e [Desireé Santos](https://web.archive.org/web/20111028041403/http://phpnrio.com.br:80/palestrantes#desiree-santos), sobre a integração do PHP com Arduino, e [Jefferson Souza](https://web.archive.org/web/20111028041403/http://phpnrio.com.br:80/palestrantes#jefferson-souza), sobre aplicações móveis com jQuery Mobile. O site do evento anunciava também nomes como [Haroldo Gamal](https://web.archive.org/web/20111028041403/http://phpnrio.com.br:80/palestrantes#haroldo-gamal), [André Pfeiffer](https://imagexmedia.com/team/andre-pfeiffer) e [Thiago Belém](https://github.com/TiuTalk), com atividades sobre extensões PHP, certificação e desenvolvimento web. Zeno registrou a própria participação em uma retrospectiva publicada em dezembro daquele ano.[^php2011][^phpnrio11site][^phpnrio11grade][^petrosite2011][^zeno2011][^robotica2011]
 - Em 10 de novembro de 2012, o CEFET-RJ voltou a receber o PHP'n Rio, dessa vez contando também com uma trilha dedicada ao DrupalCamp Rio. A programação anunciava [Wesley Willians](https://github.com/wesleywillians), então especialista em PHP e Zend Framework e posteriormente fundador da Full Cycle, com uma palestra sobre o Zend Framework 2; Thiago Belém, com uma oficina de CakePHP; Suissa, sobre bancos de dados orientados a grafos; [Mauro George](https://github.com/maurogeorge), sobre Git; e André Pfeiffer, sobre código limpo. A programação original preservada reúne ainda atividades sobre Moodle, Magento, Drupal e segurança de aplicações web.[^drupal][^phpnrio12grade][^wesley2012][^wesleyperfil][^thiago2012][^suissa2012]
 
 Essas conferências possibilitaram que muitos profissionais compartilhassem publicamente suas experiências e desenvolvessem suas habilidades como palestrantes.
@@ -56,7 +56,7 @@ Petrópolis foi uma dessas localidades. Além dos primeiros eventos de PHP reali
 
 A presença na região também contou com a atuação de profissionais locais, como [Vinicius Dias](https://github.com/cviniciussdias), que contribuiu com a organização de eventos e o compartilhamento de conhecimento técnico, posteriormente ampliando sua atuação como educador e produtor de conteúdo sobre PHP. Em janeiro de 2020, sua entrada no grupo de organização foi anunciada em reconhecimento ao trabalho que já vinha desenvolvendo na comunidade.[^vinicius][^viniciusorganizacao]
 
-Na Região dos Lagos, a aproximação com a Universidade Federal Fluminense (UFF) possibilitou a participação da comunidade em atividades acadêmicas. Em setembro de 2018, Alessandro Sampaio, então presidente do centro acadêmico de Ciência da Computação do campus de Rio das Ostras, convidou o PHPRio para participar da Semana da Computação.[^uffconvite]
+Na Região dos Lagos, a aproximação com a Universidade Federal Fluminense (UFF) possibilitou a participação da comunidade em atividades acadêmicas. Em setembro de 2018, [Alessandro Sampaio](https://github.com/alesamsil), então presidente do centro acadêmico de Ciência da Computação do campus de Rio das Ostras, convidou o PHPRio para participar da Semana da Computação.[^uffconvite]
 
 Nessas iniciativas, integrantes da comunidade levaram experiências profissionais, palestras e atividades técnicas aos estudantes. Tive a oportunidade de representar o PHPRio em uma dessas ocasiões, compartilhando conhecimentos técnicos em Rio das Ostras.[^uffrelato]
 
@@ -137,7 +137,7 @@ Com a atualização posterior dos créditos, o arquivo passou a registrar oito c
 - [Carlos Alexandre Pires de Carvalho Junior](https://github.com/calexandrepcjr);
 - [Daiane Alves](https://github.com/DaianeAlvesRJ);
 - [Ednaldo Neimeg Marques](https://stackoverflow.com/users/1671984/marques);
-- Henrique Ramos;
+- [Henrique Ramos](https://github.com/henriqueramos);
 - [Larissa Mourullo](https://github.com/larismourullo);
 - [Vinicius Dias](https://github.com/cviniciussdias);
 - [Virgílio de Carvalho Pontes](https://br.linkedin.com/in/virgiliopontes);
@@ -181,7 +181,7 @@ Em outubro de 2016, Daiane Alves iniciou sua atuação na organização do PHPWo
 
 A atuação conjunta das comunidades possibilitou a realização de eventos, oficinas de programação, mentorias e atividades de formação profissional, aproximando mulheres que desejavam ingressar ou se desenvolver no mercado de tecnologia.
 
-Em 20 de julho de 2019, por exemplo, o PHPWomen-RJ realizou no Instituto Infnet uma oficina de programação com aproximadamente oito horas de atividades práticas. O encontro contou com a coordenação de Daiane Alves, atividades de ensino conduzidas por Adriele Ribeiro e mentorias técnicas de Bruna Leiras e [Luanda Pereira](https://github.com/happymoon), entre outras colaboradoras.
+Em 20 de julho de 2019, por exemplo, o PHPWomen-RJ realizou no Instituto Infnet uma oficina de programação com aproximadamente oito horas de atividades práticas. O encontro contou com a coordenação de Daiane Alves, atividades de ensino conduzidas por [Adriele Ribeiro](https://github.com/adrieleribeiro) e mentorias técnicas de [Bruna Leiras](https://github.com/brunaleiras) e [Luanda Pereira](https://github.com/happymoon), entre outras colaboradoras.
 
 A experiência foi registrada em um artigo publicado por [Viviane Nonato](https://dev.to/vivianenonato), que documentou a metodologia colaborativa adotada pelas integrantes do grupo e o incentivo à participação de mulheres iniciantes na programação.[^viviane]
 
@@ -235,7 +235,7 @@ A trajetória da LibreCode representa um dos possíveis desdobramentos da atuaç
 
 ## O legado da comunidade
 
-Em março de 2018, durante uma conversa no Telegram do PHPRio, Bruno Araujo, Vinicius Dias, Vinicius Reis, Vinicius Mattos e outros integrantes começaram a recuperar informações sobre os primeiros anos da comunidade.
+Em março de 2018, durante uma conversa no Telegram do PHPRio, Bruno Araujo, Vinicius Dias, [Vinicius Reis](https://github.com/vinicius73), [Vinicius Mattos](https://t.me/vinimattosrj) e outros integrantes começaram a recuperar informações sobre os primeiros anos da comunidade.
 
 Naquela ocasião, reuni registros das antigas listas de discussão, das primeiras conferências e dos demais canais de comunicação. A conversa já demonstrava a importância de preservar uma história que ultrapassava uma década.[^cronologia][^iniciohistorico]
 
@@ -284,14 +284,15 @@ As datas e os números de participantes são históricos e não representam nece
 [^yahoo2008]: [Yahoo Groups PHPRio — captura de 8 de setembro de 2008](https://web.archive.org/web/20080908004227/http://br.groups.yahoo.com/group/phprio).
 [^yahoo2009]: [Yahoo Groups PHPRio — captura de 19 de setembro de 2009, com histórico mensal de mensagens](https://web.archive.org/web/20090919042221/http://br.groups.yahoo.com:80/group/phprio/).
 [^yahoo2019]: [Yahoo Groups PHPRio — captura de 27 de novembro de 2019](https://web.archive.org/web/20191127201906/https://br.groups.yahoo.com/neo/groups/phprio/info).
-[^phpnow]: [BR-Linux — phpNow! em Petrópolis/RJ, 2 de novembro de 2007](https://br-linux.org/linux/phpnow-em-petropolisrj), notícia enviada por Rodrigo Machado e publicada por Augusto Campos. [Cópia arquivada em 27 de janeiro de 2008](https://web.archive.org/web/20080127081842/http://br-linux.org:80/linux/phpnow-em-petropolisrj).
+[^phpnow]: [BR-Linux — phpNow! em Petrópolis/RJ, 2 de novembro de 2007](https://br-linux.org/linux/phpnow-em-petropolisrj), notícia enviada por Rodrigo Machado e publicada por [Augusto Campos](https://augustocampos.net/). [Cópia arquivada em 27 de janeiro de 2008](https://web.archive.org/web/20080127081842/http://br-linux.org:80/linux/phpnow-em-petropolisrj).
 [^phpnowsite]: [Site original do phpNow! — descrição do workshop, local e palestrantes anunciados](https://web.archive.org/web/20080820134003/http://www.calepino.com/phpnow), captura de 20 de agosto de 2008.
 [^phpnowpablo]: [Pablo Dall'Oglio — currículo, registro da palestra PHP-GTK2 no PHP Now! em 2007](https://www.escavador.com/sobre/7914399/pablo-dalloglio).
-[^phpnowrodrigo]: [Rodrigo Luis de Souza da Silva — currículo, registro da organização do phpNow! em 2007](https://www.escavador.com/sobre/1256471/rodrigo-luis-de-souza-da-silva).
+[^phpnowangelica]: [Maria Angélica de Oliveira Camargo Brunetto — currículo reproduzido a partir do Lattes, incluindo registro do phpNow! de 2007](https://www.escavador.com/sobre/3223067/maria-angelica-de-oliveira-camargo-brunetto). [Registro acadêmico da UEL](https://pos.uel.br/ciencia-da-computacao/defesas/).
+[^phpnowrodrigo]: [Rodrigo Luis de Souza da Silva — currículo, registro da organização do phpNow! em 2007](https://www.escavador.com/sobre/1256471/rodrigo-luis-de-souza-da-silva). [Perfil institucional na UFJF](https://www.gcg.ufjf.br/), com indicação do [Currículo Lattes](http://lattes.cnpq.br/6878718102770367).
 [^petrosite2011]: [Petrosite participa do PHP'n Rio 2011](https://www.petrosite.com.br/petrosite-participa-do-phpn-rio-2011), relato de participantes com referência ao phpNow! de 2007.
 [^migracao]: [Relato sobre a migração do Yahoo Groups para o Google Groups](https://t.me/phprio/68823).
 [^bruno]: [Depoimento de Bruno Araujo sobre a reorganização do PHPRio](https://t.me/phprio/68782).
-[^reativacao]: [BR-Linux — PHP: Reativado o grupo PHP-Rio, 1º de novembro de 2008](https://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php), informação enviada por Afonso Teixeira de Freitas e publicada por Augusto Campos. [Cópia preservada pela Wayback Machine em 13 de outubro de 2013](https://web.archive.org/web/20131013003723/http://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php).
+[^reativacao]: [BR-Linux — PHP: Reativado o grupo PHP-Rio, 1º de novembro de 2008](https://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php), informação enviada por Afonso Teixeira de Freitas e publicada por [Augusto Campos](https://augustocampos.net/). [Cópia preservada pela Wayback Machine em 13 de outubro de 2013](https://web.archive.org/web/20131013003723/http://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php).
 [^cronologia]: [Cronologia histórica recuperada pelos integrantes do PHPRio em março de 2018](https://t.me/phprio/68820).
 [^ata]: [Relato sobre ata de reunião de novembro de 2008](https://t.me/phprio/51566).
 [^site2008]: [Antigo site institucional do PHPRio — dezembro de 2008](https://web.archive.org/web/20081204014419/http://www.phprio.org:80/).
@@ -306,9 +307,10 @@ As datas e os números de participantes são históricos e não representam nece
 [^phpnrio10adiamento]: [Igor Feghali — Esclarecimentos sobre o PHP'n Rio 10, 19 de agosto de 2010](https://groups.google.com/g/phprio-org-announce/c/oziAmRGGt18/m/tJf8a_R0dEYJ).
 [^phpnrio10confirmacao]: [Igor Feghali — PHP'n Rio 10 - Confirmado, 3 de novembro de 2010](https://groups.google.com/g/phprio-org-announce/c/CKCDgsSe-nA/m/pv8bHi4r0F8J).
 [^php2011]: [PHP.net — Arquivo oficial de notícias de 2011](https://www.php.net/archive/2011.php).
-[^phpnrio11site]: [Site oficial do PHP'n Rio 2011 — palestrantes e temas](https://web.archive.org/web/20111006150352/http://phpnrio.com.br:80/), captura de 6 de outubro de 2011.
+[^phpnrio11site]: [Site oficial do PHP'n Rio 2011 — palestrantes e temas](https://web.archive.org/web/20111006150352/http://phpnrio.com.br:80/), captura de 6 de outubro de 2011. [Minicurrículos dos palestrantes, captura de 28 de outubro de 2011](https://web.archive.org/web/20111028041403/http://phpnrio.com.br:80/palestrantes).
 [^phpnrio11grade]: [PHP'n Rio 2011 — grade de programação](https://web.archive.org/web/20120529231113/http://www.phpnrio.com.br:80/2011/grade), captura de 29 de maio de 2012.
 [^zeno2011]: [Zeno Rocha — Então é natal e ano novo também..., 27 de dezembro de 2011](https://zenorocha.com/entao-e-natal-e-ano-novo-tambem), relato do palestrante sobre sua participação.
+[^robotica2011]: [Marco Antônio Maciel e Desireé Santos — Robótica e PHP com Arduino, apresentação no PHP'n Rio 2011](https://pt.slideshare.net/slideshow/robtica-e-php-com-arduino-phpn-rio-2011/10039109).
 [^phpnrio12grade]: [PHP'n Rio 2012 — grade provisória de programação](https://web.archive.org/web/20121012235501/http://phpnrio.com.br:80/2012/grade-de-programacao), captura de 12 de outubro de 2012.
 [^wesley2012]: [PHP'n Rio 2012 — Zend Framework 2: O que há de novo, Wesley Willians](https://web.archive.org/web/20121128104932/http://phpnrio.com.br:80/2012/zend-framework-2-o-que-ha-de-novo).
 [^wesleyperfil]: [The Developer's Conference — perfil de Wesley Willians, fundador da Full Cycle e School of Net](https://thedevconf.com/palestrante/WesleyWilliansRamosdaSilva).
@@ -359,7 +361,7 @@ As datas e os números de participantes são históricos e não representam nece
 [^traducaomeetup]: [Divulgação do meetup sobre tradução da documentação oficial do PHP, junho de 2022](https://t.me/phprio/158588).
 [^doc144]: [PHP Documentation — Pull request #144, atualização da tradução brasileira](https://github.com/php/doc-pt_br/pull/144).
 [^doc145]: [PHP Documentation — Pull request #145, atualizações de junho de 2022](https://github.com/php/doc-pt_br/pull/145).
-[^phpwomenhistoria]: [PHPWomenBR — Publicações da comunidade brasileira](https://dev.to/phpwomenbr).
+[^phpwomenhistoria]: [PHPWomenBR — Publicações da comunidade brasileira](https://dev.to/phpwomenbr). [Integrantes da comunidade](https://phpwomen.org.br/about/).
 [^daiane]: [Daiane Alves — Histórico de atuação voluntária no PHPRio e PHPWomenBR](https://br.linkedin.com/in/daianealvesrj). [Perfil na equipe do LibreSign, com referência à atuação nas comunidades](https://libresign.coop/team/).
 [^viviane]: [Viviane Nonato — Por mais mulheres na tecnologia: Grupo de incentivo PHPWomen-RJ, 2019](https://web.archive.org/web/20230102024732/https://nonato-viviane.medium.com/por-mais-mulheres-na-tecnologia-grupo-de-incentivo-phpwomen-rj-1ac9c3e0efe), preservado pela Wayback Machine. [Republicação pela PHPWomenBR, em 7 de fevereiro de 2020](https://dev.to/phpwomenbr/por-mais-mulheres-na-tecnologia-grupo-de-incentivo-phpwomen-rj-370i).
 [^phpbrasil]: [PHP Brasil — Primeiro registro do supergrupo no Telegram](https://t.me/phpbrasil/1).
