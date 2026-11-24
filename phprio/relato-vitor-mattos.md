@@ -285,7 +285,7 @@ As datas e os números de participantes são históricos e não representam nece
 [^phpnow]: [BR-Linux — phpNow! em Petrópolis/RJ, 2007](https://br-linux.org/linux/phpnow-em-petropolisrj).
 [^migracao]: [Relato sobre a migração do Yahoo Groups para o Google Groups](https://t.me/phprio/68823).
 [^bruno]: [Depoimento de Bruno Araujo sobre a reorganização do PHPRio](https://t.me/phprio/68782).
-[^reativacao]: [BR-Linux — Reativação do grupo PHP-Rio, 2008](https://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php).
+[^reativacao]: [BR-Linux — PHP: Reativado o grupo PHP-Rio, 1º de novembro de 2008](https://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php), informação enviada por Afonso Teixeira de Freitas e publicada por Augusto Campos. [Cópia preservada pela Wayback Machine em 13 de outubro de 2013](https://web.archive.org/web/20131013003723/http://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php).
 [^cronologia]: [Cronologia histórica recuperada pelos integrantes do PHPRio em março de 2018](https://t.me/phprio/68820).
 [^ata]: [Relato sobre ata de reunião de novembro de 2008](https://t.me/phprio/51566).
 [^site2008]: [Antigo site institucional do PHPRio — dezembro de 2008](https://web.archive.org/web/20081204014419/http://www.phprio.org:80/).
