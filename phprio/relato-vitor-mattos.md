@@ -30,7 +30,7 @@ Essa reorganização aconteceu em um momento importante para o PHP no Brasil, ma
 
 Em 2009, a comunidade deu um passo importante com a realização da primeira edição do PHP'n Rio, conferência que passaria a integrar o calendário de eventos de tecnologia do estado.
 
-A primeira edição aconteceu em 3 de julho de 2009, no Instituto Infnet, e foi divulgada internacionalmente pelo site oficial do PHP. O evento contou com a participação de [Jan Schneider](https://www.horde.org/apps/imp/authors), desenvolvedor do projeto Horde, além de atividades sobre frameworks, aplicações web e testes automatizados. A programação também incluiu um PHP TestFest, iniciativa de colaboração com os testes da própria linguagem PHP.[^php2009]
+A primeira edição aconteceu em 3 de julho de 2009, no Instituto Infnet, e foi divulgada internacionalmente pelo site oficial do PHP. O evento contou com a participação de [Jan Schneider](https://github.com/yunosh), desenvolvedor do projeto Horde, além de atividades sobre frameworks, aplicações web e testes automatizados. A programação também incluiu um PHP TestFest, iniciativa de colaboração com os testes da própria linguagem PHP.[^php2009]
 
 Naquela época, Igor Feghali disponibilizava contas de e-mail com o domínio da comunidade para seus integrantes. Era uma forma de fortalecer o sentimento de pertencimento e estabelecer uma identidade coletiva. Um registro que ajuda a situar minha participação nesse período é o e-mail de boas-vindas à minha conta institucional do PHPRio, recebido em 23 de julho de 2009, quando eu já acompanhava a comunidade.[^email][^contas]
 
@@ -60,7 +60,7 @@ Nessas iniciativas, integrantes da comunidade levaram experiências profissionai
 
 Em Volta Redonda, o PHPRio estabeleceu conexões com a comunidade Rio Sul Valley. Em outubro de 2018, esteve representado em um painel sobre o papel das comunidades no ecossistema de empreendedorismo e inovação.[^riosul]
 
-Em novembro daquele mesmo ano, [Daiane Alves](https://br.linkedin.com/in/daianealvesrj) e eu estivemos entre os palestrantes da quarta edição do Rio Sul Valley Dev Summit, realizada no Centro Universitário Geraldo Di Biase (UGB), cuja temática foi o software livre. As apresentações abordaram a contribuição com projetos livres e as possibilidades de geração de renda a partir do software livre.[^ugb]
+Em novembro daquele mesmo ano, [Daiane Alves](https://github.com/DaianeAlvesRJ) e eu estivemos entre os palestrantes da quarta edição do Rio Sul Valley Dev Summit, realizada no Centro Universitário Geraldo Di Biase (UGB), cuja temática foi o software livre. As apresentações abordaram a contribuição com projetos livres e as possibilidades de geração de renda a partir do software livre.[^ugb]
 
 A aproximação com outras comunidades e instituições de ensino também incluiu atividades em Niterói, como o Festival Latino-Americano de Instalação de Software Livre (FLISoL), em abril de 2018, e uma palestra sobre trabalho cooperativo na produção de software, realizada por Daiane e por mim no campus Praia Vermelha da UFF, em junho de 2023.[^flisol][^uff2023]
 
@@ -133,10 +133,10 @@ Outras contribuições foram efetivamente incorporadas ao código-fonte da lingu
 Com a atualização posterior dos créditos, o arquivo passou a registrar oito contribuidores:
 
 - [Carlos Alexandre Pires de Carvalho Junior](https://github.com/calexandrepcjr);
-- [Daiane Alves](https://br.linkedin.com/in/daianealvesrj);
+- [Daiane Alves](https://github.com/DaianeAlvesRJ);
 - [Ednaldo Neimeg Marques](https://stackoverflow.com/users/1671984/marques);
 - Henrique Ramos;
-- [Larissa Mourullo](https://medium.com/@larismourullo);
+- [Larissa Mourullo](https://github.com/larismourullo);
 - [Vinicius Dias](https://github.com/cviniciussdias);
 - [Virgílio de Carvalho Pontes](https://br.linkedin.com/in/virgiliopontes);
 - [Vitor Mattos](https://github.com/vitormattos).
@@ -179,9 +179,9 @@ Em outubro de 2016, Daiane Alves iniciou sua atuação na organização do PHPWo
 
 A atuação conjunta das comunidades possibilitou a realização de eventos, oficinas de programação, mentorias e atividades de formação profissional, aproximando mulheres que desejavam ingressar ou se desenvolver no mercado de tecnologia.
 
-Em 20 de julho de 2019, por exemplo, o PHPWomen-RJ realizou no Instituto Infnet uma oficina de programação com aproximadamente oito horas de atividades práticas. O encontro contou com a coordenação de Daiane Alves, atividades de ensino conduzidas por Adriele Ribeiro e mentorias técnicas de Bruna Leiras e [Luanda Pereira](https://medium.com/@happymoon), entre outras colaboradoras.
+Em 20 de julho de 2019, por exemplo, o PHPWomen-RJ realizou no Instituto Infnet uma oficina de programação com aproximadamente oito horas de atividades práticas. O encontro contou com a coordenação de Daiane Alves, atividades de ensino conduzidas por Adriele Ribeiro e mentorias técnicas de Bruna Leiras e [Luanda Pereira](https://github.com/happymoon), entre outras colaboradoras.
 
-A experiência foi registrada em um artigo publicado por [Viviane Nonato](https://nonato-viviane.medium.com/), que documentou a metodologia colaborativa adotada pelas integrantes do grupo e o incentivo à participação de mulheres iniciantes na programação.[^viviane]
+A experiência foi registrada em um artigo publicado por [Viviane Nonato](https://dev.to/vivianenonato), que documentou a metodologia colaborativa adotada pelas integrantes do grupo e o incentivo à participação de mulheres iniciantes na programação.[^viviane]
 
 A colaboração entre PHPRio e PHPWomenBR fortaleceu ambas as comunidades. Mais do que incentivar o aprendizado de uma linguagem de programação, essas atividades buscavam ampliar as possibilidades de participação das pessoas no ecossistema tecnológico.
 
@@ -292,13 +292,13 @@ As datas e os números de participantes são históricos e não representam nece
 [^announce2009]: [PHP Rio Announce — captura de 13 de fevereiro de 2009](https://web.archive.org/web/20090213190941/http://groups.google.com:80/group/phprio-org-announce).
 [^announcehistorico]: [PHP Rio Announce — histórico de mensagens desde novembro de 2008](https://web.archive.org/web/20100203060555/http://groups.google.com:80/group/phprio-org-announce/about).
 [^phpbc]: [Rafael Dohms — 2008: Acontecimentos que mudaram a internet](https://doh.ms/2009/01/07/2008-acontecimentos-que-mudaram-a-internet/).
-[^php2009]: [PHP.net — Arquivo oficial de notícias de 2009](https://www.php.net/archive/2009.php).
+[^php2009]: [PHP.net — Arquivo oficial de notícias de 2009](https://www.php.net/archive/2009.php). [Equipe oficial do projeto Horde, com o perfil de Jan Schneider](https://www.horde.org/community/team/).
 [^email]: [Registro histórico do e-mail institucional de Vitor Mattos](https://t.me/phprio/51623).
 [^contas]: [Registro sobre as contas de e-mail institucionais do PHPRio](https://t.me/phprio/51622).
 [^php2010]: [PHP.net — Arquivo oficial de notícias de 2010](https://www.php.net/archive/2010.php).
 [^php2011]: [PHP.net — Arquivo oficial de notícias de 2011](https://www.php.net/archive/2011.php).
-[^drupal]: [Drupal Groups — Registros do DrupalCamp Rio](https://groups.drupal.org/taxonomy/term/23223).
-[^vitor]: [Vitor Mattos — Histórico profissional e apresentações](https://br.linkedin.com/in/vitormattos).
+[^drupal]: [Drupal Groups — DrupalCamp Rio 2012 #2, anúncio de 20 de setembro de 2012](https://web.archive.org/web/20121103053608/http://groups.drupal.org:80/node/255783), preservado pela Wayback Machine.
+[^vitor]: [Vitor Mattos — Histórico profissional e apresentações](https://br.linkedin.com/in/vitormattos). [Catálogo de palestras](https://vitormattos.github.io/talks/).
 [^petropolis]: [Sou Petrópolis — Divulgação do meetup PHPRio de agosto de 2019](https://soupetropolis.com/2019/08/22/xterra-brasil-festival-de-pizza-e-mais-de-30-eventos-confirmados-para-este-fim-de-semana/).
 [^vinicius]: [Dias de Dev — Trajetória profissional e comunitária de Vinicius Dias](https://dias.dev/sobre-mim/).
 [^viniciusorganizacao]: [Anúncio da entrada de Vinicius Dias na organização do PHPRio, janeiro de 2020](https://t.me/phprio/121950).
@@ -306,7 +306,7 @@ As datas e os números de participantes são históricos e não representam nece
 [^uffrelato]: [Relato sobre atividades em Rio das Ostras e Volta Redonda](https://t.me/phprio/122638).
 [^riosul]: [A Voz da Cidade — Rio Sul Valley Conference, 2018](https://avozdacidade.com/wp/rio-sul-valley-realiza-conferencia-de-tecnologia-e-inovacao-neste-sabado-em-volta-redonda/).
 [^ugb]: [A Voz da Cidade — Rio Sul Valley Dev Summit na UGB, 2018](https://avozdacidade.com/wp/rio-sul-valley-organiza-evento-para-startups-na-ugb-em-volta-redonda/).
-[^flisol]: [FLISoL — Programação de Niterói, 2018](https://flisol.info/FLISOL2018/Brasil/Niteroi).
+[^flisol]: [FLISoL — Programação de Niterói, 2018](https://web.archive.org/web/20190818015728/https://flisol.info/FLISOL2018/Brasil/Niteroi), preservada pela Wayback Machine.
 [^uff2023]: [Registro de palestra sobre cooperativismo na UFF, 2023](https://t.me/phprio/166240).
 [^criacaotelegram]: [Registro da criação do grupo PHPRio no Telegram](https://t.me/phprio/169037).
 [^supergrupo]: [Migração do PHPRio para supergrupo, março de 2016](https://t.me/phprio/1).
@@ -343,8 +343,8 @@ As datas e os números de participantes são históricos e não representam nece
 [^doc144]: [PHP Documentation — Pull request #144, atualização da tradução brasileira](https://github.com/php/doc-pt_br/pull/144).
 [^doc145]: [PHP Documentation — Pull request #145, atualizações de junho de 2022](https://github.com/php/doc-pt_br/pull/145).
 [^phpwomenhistoria]: [PHPWomenBR — Publicações da comunidade brasileira](https://dev.to/phpwomenbr).
-[^daiane]: [Daiane Alves — Histórico de atuação voluntária no PHPRio e PHPWomenBR](https://br.linkedin.com/in/daianealvesrj).
-[^viviane]: [Viviane Nonato — Por mais mulheres na tecnologia: Grupo de incentivo PHPWomen-RJ, 2019](https://nonato-viviane.medium.com/por-mais-mulheres-na-tecnologia-grupo-de-incentivo-phpwomen-rj-1ac9c3e0efe).
+[^daiane]: [Daiane Alves — Histórico de atuação voluntária no PHPRio e PHPWomenBR](https://br.linkedin.com/in/daianealvesrj). [Perfil na equipe do LibreSign, com referência à atuação nas comunidades](https://libresign.coop/team/).
+[^viviane]: [Viviane Nonato — Por mais mulheres na tecnologia: Grupo de incentivo PHPWomen-RJ, 2019](https://web.archive.org/web/20230102024732/https://nonato-viviane.medium.com/por-mais-mulheres-na-tecnologia-grupo-de-incentivo-phpwomen-rj-1ac9c3e0efe), preservado pela Wayback Machine. [Republicação pela PHPWomenBR, em 7 de fevereiro de 2020](https://dev.to/phpwomenbr/por-mais-mulheres-na-tecnologia-grupo-de-incentivo-phpwomen-rj-370i).
 [^phpbrasil]: [PHP Brasil — Primeiro registro do supergrupo no Telegram](https://t.me/phpbrasil/1).
 [^diretorio]: [Diretório colaborativo de grupos do Telegram](https://listatelegram.github.io/).
 [^origemlibrecode]: [Registro sobre a origem comunitária da LibreCode](https://t.me/phprio/154626).
@@ -353,7 +353,7 @@ As datas e os números de participantes são históricos e não representam nece
 [^libresign]: [LibreSign — Repositório oficial do projeto](https://github.com/LibreSign/libresign).
 [^iniciohistorico]: [Início da conversa sobre a recuperação da história do PHPRio, março de 2018](https://t.me/phprio/68781).
 [^imasters]: [iMasters Developer Week — Programação do evento no Rio de Janeiro](https://developerweek.imasters.com.br/rio-de-janeiro.html).
-[^latinoware]: [Latinoware 2022 — Perfil de Vitor Mattos](https://2022.latinoware.org/vitor-mattos/).
+[^latinoware]: [Latinoware 2026 — Perfil e programação de Vitor Mattos](https://latinoware.org/palestrante/swge-549501d362162070632aec78ed6cc587/).
 
 ### Fontes complementares
 
