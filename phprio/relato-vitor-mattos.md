@@ -193,9 +193,17 @@ A participação feminina também esteve presente nas atividades de contribuiç�
 
 O Brasil possui uma característica interessante em seu ecossistema PHP: a existência de diversas comunidades regionais, cada uma com sua própria identidade, seus organizadores e suas iniciativas.
 
-Ao longo dos anos, comunidades como PHPSP, PHPRio, PHPBA, PHPMG, PHPSC, PHP Maranhão, PHP Manaus, PHPDF e tantas outras contribuíram para descentralizar o conhecimento e fortalecer a linguagem em diferentes regiões do país.
+Ao longo dos anos, comunidades de diferentes regiões do país contribuíram para descentralizar o conhecimento e fortalecer a linguagem. Algumas das comunidades que fazem parte dessa história são:
 
-Essa integração já podia ser observada nas primeiras iniciativas nacionais de organização das comunidades e na participação simultânea de diferentes grupos brasileiros em atividades internacionais, como o PHP TestFest de 2009.[^phpbc][^testfest2009]
+- **Norte:** [PHP Manaus (AM)](https://phpmanaus.com.br/) e [PHP Belém (PA)](https://www.phpbelem.com.br/).
+- **Nordeste:** [PHP-AL (AL)](https://groups.google.com/g/php-al), [PHPBA (BA)](https://t.me/phpba), [PHP com Rapadura (CE)](https://phpcomrapadura.org/), [PHP Maranhão (MA)](https://t.me/phpmaranhao), [PHP-PB (PB)](https://php-pb.net/), [PHP Pernambuco (PE)](https://t.me/phppe), [PHP Piauí (PI)](https://www.linkedin.com/company/phppiaui), [PHP-RN (RN)](https://t.me/phprn) e [PHPSE (SE)](https://t.me/phpse). A articulação entre os estados nordestinos também deu origem à conferência [PHPeste](https://phpeste.dev/).[^phpeste][^phppi]
+- **Centro-Oeste:** [PHPDF (DF)](https://phpdf.org.br/), [GOPHP (GO)](https://groups.google.com/g/gophp), [PHPMT (MT)](https://groups.google.com/g/phpmt) e [PHPMS (MS)](https://groups.google.com/g/phpms).
+- **Sudeste:** [PHPES (ES)](https://web.archive.org/web/20090706234848/http://www.phpes.org:80/), [PHPMG (MG)](https://www.meetup.com/php-mg/), [PHPRio (RJ)](https://php.rio/) e [PHPSP (SP)](https://phpsp.org.br/).
+- **Sul:** [PHPPR (PR)](https://github.com/phppr), [PHPSC (SC)](https://www.phpsc.com.br/) e [PHPRS (RS)](https://t.me/phprs).
+
+Houve também grupos e núcleos de atuação mais local, como o [PHP Bauru](https://web.archive.org/web/20090112150343/http://br.groups.yahoo.com:80/group/bauru-php/), cuja lista do Yahoo Groups remonta a 2002, o [PHPVale](https://github.com/PHPVale), o [PHPSP Campinas](https://www.meetup.com/phpsp-campinas/) e o [PHPSanca](https://www.meetup.com/phpsanca/), de São Carlos. A relação não é exaustiva e reúne comunidades de diferentes gerações, recorrendo a registros históricos quando não foi possível localizar um canal público atual.[^phpbcsite][^comunidadesdiretorios]
+
+Essa integração já podia ser observada em outubro de 2008, quando o PHP Brasil Comunidades publicou uma carta à comunidade apresentando a articulação entre os coordenadores de grupos regionais. O BR-Linux reproduziu a carta, mencionando 19 representações, entre elas PHPAM, PHPES, PHP Pai d’Égua, PHPPR e bauru-php. No ano seguinte, diversos grupos brasileiros participaram do PHP TestFest internacional.[^phpbc][^phpbcsite][^phpbccarta][^testfest2009]
 
 Eventos regionais e nacionais também favoreceram o intercâmbio entre essas comunidades. Palestrantes passaram a circular por diferentes estados, organizadores compartilharam suas experiências e iniciativas locais ganharam visibilidade nacional.
 
@@ -205,7 +213,7 @@ O grupo PHP Brasil, disponível em [t.me/phpbrasil](https://t.me/phpbrasil) e co
 
 A divulgação de listas de grupos regionais tornou-se uma das formas de facilitar a conexão dos profissionais com as comunidades de suas próprias localidades. Diversos integrantes do ecossistema PHP contribuíram para a manutenção e divulgação dessas informações, inclusive em diretórios públicos de grupos do Telegram.[^diretorio]
 
-Ao longo dos anos, também passei a compilar e compartilhar listas de comunidades PHP, incentivando novos participantes a conhecerem os grupos regionais.
+Ao longo dos anos, também passei a compilar e compartilhar listas de comunidades PHP, incentivando novos participantes a conhecerem os grupos regionais. Uma dessas listas, publicada em julho de 2017 no Telegram do PHPRio, reunia comunidades de diferentes estados, além de grupos nacionais e dos espaços de discussão mantidos no Slack.[^comunidades2017]
 
 Na experiência de administração do PHP Brasil, passamos a convidar organizadores das comunidades regionais a integrar a gestão do grupo nacional. A proposta é que esse espaço seja gerido de forma colaborativa, representando diferentes localidades e não dependendo exclusivamente da atuação de uma única pessoa.
 
@@ -299,6 +307,12 @@ As datas e os números de participantes são históricos e não representam nece
 [^announce2009]: [PHP Rio Announce — captura de 13 de fevereiro de 2009](https://web.archive.org/web/20090213190941/http://groups.google.com:80/group/phprio-org-announce).
 [^announcehistorico]: [PHP Rio Announce — histórico de mensagens desde novembro de 2008](https://web.archive.org/web/20100203060555/http://groups.google.com:80/group/phprio-org-announce/about).
 [^phpbc]: [Rafael Dohms — 2008: Acontecimentos que mudaram a internet](https://doh.ms/2009/01/07/2008-acontecimentos-que-mudaram-a-internet/).
+[^phpbcsite]: [PHP Brasil Comunidades — site original preservado em 19 de outubro de 2008](https://web.archive.org/web/20081019105553/http://php.org.br:80/), com a carta à comunidade e a relação dos grupos regionais.
+[^phpbccarta]: [BR-Linux — PHP Brasil Comunidades: união de comunidades PHP, 19 de outubro de 2008](https://br-linux.org/wparchive/2008/php-brasil-comunidades-uniao-de-comunidades-php.php).
+[^phpeste]: [PHPeste — histórico da conferência e comunidades parceiras](https://phpeste.dev/).
+[^phppi]: [PHP Piauí — lançamento das comunidades de PHP do estado, em novembro de 2023](https://www.sympla.com.br/evento/lancamento-das-comunidades-de-php-do-estado-do-piaui/2207864). [Registro dos três anos da comunidade PHPPI e PHPWomen PI, em novembro de 2026](https://www.sympla.com.br/evento/3-anos-da-comunidade-phppi-phpwomen-pi/3636832).
+[^comunidadesdiretorios]: [O PHP não morreu — diretório de comunidades brasileiras](https://phpnaomorreu.com.br/). [PHP Brasil — curadoria de comunidades de desenvolvimento](https://github.com/brasil-php/comunidades). [PHPWomenBR — comunidades PHP do Brasil](https://phpwomen.org.br/about/).
+[^comunidades2017]: [Vitor Mattos — lista de comunidades PHP compartilhada no PHPRio, 7 de julho de 2017](https://t.me/phprio/52108).
 [^php2009]: [PHP.net — Arquivo oficial de notícias de 2009](https://www.php.net/archive/2009.php). [Equipe oficial do projeto Horde, com o perfil de Jan Schneider](https://www.horde.org/community/team/).
 [^email]: [Registro histórico do e-mail institucional de Vitor Mattos](https://t.me/phprio/51623).
 [^contas]: [Registro sobre as contas de e-mail institucionais do PHPRio](https://t.me/phprio/51622).
