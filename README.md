@@ -18,6 +18,12 @@ O sumário ainda não está definido. É algo que vai ser construído conforme e
 
 É isso. Agradeço a atenção e fico à disposição para quaisquer esclarecimentos.
 
+## Licença
+
+As novas contribuições originais ao projeto são disponibilizadas sob a licença [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](LICENSE), salvo indicação expressa em contrário. A licença permite compartilhar e adaptar o conteúdo, inclusive para fins comerciais, com atribuição aos autores e mantendo a mesma licença nas adaptações.
+
+Os materiais já disponibilizados sob a licença [CC0 1.0 Universal](LICENSES/CC0-1.0.txt) permanecem disponíveis sob seus termos originais. Materiais de terceiros mantêm suas próprias licenças e não são automaticamente abrangidos pela licença do projeto.
+
 ## Como contribuir
 
 Faça um fork, crie uma pasta, escreva seu relato em um arquivo .md e faça um pull request. Conforme as contribuições chegarem, vamos organizando a estrutura deste repositório.
