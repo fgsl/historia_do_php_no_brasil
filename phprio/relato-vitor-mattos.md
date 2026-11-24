@@ -219,7 +219,7 @@ Na experiência de administração do PHP Brasil, passamos a convidar organizado
 
 Essa preocupação tem relação direta com a experiência acumulada pelo PHPRio desde os tempos do Yahoo Groups. Uma comunidade pode enfrentar dificuldades quando o controle de suas ferramentas está concentrado em uma pessoa que, por qualquer motivo, deixa de participar de suas atividades.
 
-Mais do que centralizar as comunidades brasileiras, a proposta é estabelecer conexões entre elas, respeitando sua autonomia e facilitando a circulação do conhecimento.
+A ideia era aproximar os organizadores das comunidades de diferentes estados para que pudéssemos trocar experiências, ajudar na divulgação dos eventos e colaborar uns com os outros. Cada comunidade continuaria se organizando da sua própria forma.
 
 ## Quando a comunidade dá origem a uma cooperativa
 
