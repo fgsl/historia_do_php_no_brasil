@@ -8,7 +8,9 @@ A história da comunidade PHP do Rio de Janeiro remonta a uma época em que as l
 
 Em 15 de maio de 2007, foi criado no Yahoo Groups o grupo PHPRio, destinado à organização dos profissionais PHP do estado do Rio de Janeiro. Sua descrição já manifestava a preocupação com o acolhimento de iniciantes e o incentivo ao aprendizado da linguagem. A abrangência estadual estava presente desde a origem: a proposta nunca foi restringir as atividades à capital.[^yahoo2008][^yahoo2019]
 
-Naquele mesmo ano, a movimentação em torno do PHP também acontecia fora da capital. Em 24 de novembro de 2007, o Laboratório Nacional de Computação Científica (LNCC), em Petrópolis, sediou o phpNow!, cuja programação anunciava nomes importantes do ecossistema PHP, como [Manuel Lemos](https://www.phpclasses.org/browse/author/1.html), criador do PHP Classes, e [Pablo Dall'Oglio](https://github.com/pablodalloglio), referência brasileira em PHP-GTK.[^phpnow]
+Naquele mesmo ano, a movimentação em torno do PHP também acontecia fora da capital. Em 24 de novembro de 2007, o Laboratório Nacional de Computação Científica (LNCC), em Petrópolis, sediou o phpNow!. Entre os palestrantes anunciados estavam [Manuel Lemos](https://www.phpclasses.org/browse/author/1.html), criador do PHP Classes, [Pablo Dall'Oglio](https://github.com/pablodalloglio), autor de livros sobre PHP e criador da comunidade brasileira de PHP-GTK, e Angélica Brunetto, professora da Universidade Estadual de Londrina (UEL) e doutora em Ciência da Computação. A divulgação do workshop também anunciava profissionais da IBM, do Instituto Militar de Engenharia (IME) e da COPPE/UFRJ.[^phpnow][^phpnowsite]
+
+O evento aparece no currículo de Pablo Dall'Oglio, que registra uma apresentação sobre PHP-GTK2, e no de Rodrigo Luis de Souza da Silva, que participou da organização. Anos depois, a equipe da Petrosite, de Petrópolis, ainda recordava o phpNow! ao comentar sua experiência no PHP'n Rio de 2011.[^phpnowpablo][^phpnowrodrigo][^petrosite2011]
 
 Em setembro de 2008, o grupo do Yahoo contabilizava 72 associados. Apesar da existência desse espaço, a comunidade atravessava um período de pouca atividade. Segundo relatos recuperados posteriormente, havia dificuldades relacionadas à administração da lista e à entrada de novos participantes.[^yahoo2008][^migracao]
 
@@ -30,15 +32,15 @@ Essa reorganização aconteceu em um momento importante para o PHP no Brasil, ma
 
 Em 2009, a comunidade deu um passo importante com a realização da primeira edição do PHP'n Rio, conferência que passaria a integrar o calendário de eventos de tecnologia do estado.
 
-A primeira edição aconteceu em 3 de julho de 2009, no Instituto Infnet, e foi divulgada internacionalmente pelo site oficial do PHP. O evento contou com a participação de [Jan Schneider](https://github.com/yunosh), desenvolvedor do projeto Horde, além de atividades sobre frameworks, aplicações web e testes automatizados. A programação também incluiu um PHP TestFest, iniciativa de colaboração com os testes da própria linguagem PHP.[^php2009]
+A primeira edição aconteceu em 3 de julho de 2009, no Instituto Infnet, e foi divulgada internacionalmente pelo site oficial do PHP. A programação trazia como keynote [Jan Schneider](https://github.com/yunosh), desenvolvedor do núcleo do projeto Horde, e uma palestra de Pedro Faria sobre a personalização de sites com Drupal, além do PHP TestFest, iniciativa de colaboração com os testes da própria linguagem PHP.[^php2009][^phpnrio09site]
 
 Naquela época, Igor Feghali disponibilizava contas de e-mail com o domínio da comunidade para seus integrantes. Era uma forma de fortalecer o sentimento de pertencimento e estabelecer uma identidade coletiva. Um registro que ajuda a situar minha participação nesse período é o e-mail de boas-vindas à minha conta institucional do PHPRio, recebido em 23 de julho de 2009, quando eu já acompanhava a comunidade.[^email][^contas]
 
 As conferências continuaram nos anos seguintes:
 
-- Em 20 de novembro de 2010, aconteceu a segunda edição do PHP'n Rio, na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).[^php2010]
-- Em 5 de novembro de 2011, a terceira edição foi realizada no CEFET-RJ, no Maracanã.[^php2011]
-- Em 10 de novembro de 2012, o CEFET-RJ voltou a receber o PHP'n Rio, dessa vez contando também com uma trilha dedicada ao DrupalCamp Rio.[^drupal]
+- Em 20 de novembro de 2010, aconteceu a segunda edição do PHP'n Rio, na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Inicialmente prevista para agosto, a conferência foi adiada por dificuldades na captação de recursos, sendo confirmada para novembro por Igor Feghali na lista PHP Rio Announce.[^php2010][^phpnrio10adiamento][^phpnrio10confirmacao]
+- Em 5 de novembro de 2011, a terceira edição foi realizada no CEFET-RJ, no Maracanã. Entre as apresentações registradas por participantes estão as de [Zeno Rocha](https://zenorocha.com/), sobre HTML5, [Jean Carlo Nascimento (Suissa)](https://github.com/suissa), sobre MongoDB com PHP, Marco Antônio Maciel, sobre a integração do PHP com Arduino, e Jefferson Souza, sobre aplicações móveis com jQuery Mobile. O site do evento anunciava também nomes como Haroldo Gamal, André Pfeiffer e [Thiago Belém](https://github.com/TiuTalk), com atividades sobre extensões PHP, certificação e desenvolvimento web. Zeno registrou a própria participação em uma retrospectiva publicada em dezembro daquele ano.[^php2011][^phpnrio11site][^phpnrio11grade][^petrosite2011][^zeno2011]
+- Em 10 de novembro de 2012, o CEFET-RJ voltou a receber o PHP'n Rio, dessa vez contando também com uma trilha dedicada ao DrupalCamp Rio. A programação anunciava [Wesley Willians](https://github.com/wesleywillians), então especialista em PHP e Zend Framework e posteriormente fundador da Full Cycle, com uma palestra sobre o Zend Framework 2; Thiago Belém, com uma oficina de CakePHP; Suissa, sobre bancos de dados orientados a grafos; [Mauro George](https://github.com/maurogeorge), sobre Git; e André Pfeiffer, sobre código limpo. A programação original preservada reúne ainda atividades sobre Moodle, Magento, Drupal e segurança de aplicações web.[^drupal][^phpnrio12grade][^wesley2012][^wesleyperfil][^thiago2012][^suissa2012]
 
 Essas conferências possibilitaram que muitos profissionais compartilhassem publicamente suas experiências e desenvolvessem suas habilidades como palestrantes.
 
@@ -282,7 +284,11 @@ As datas e os números de participantes são históricos e não representam nece
 [^yahoo2008]: [Yahoo Groups PHPRio — captura de 8 de setembro de 2008](https://web.archive.org/web/20080908004227/http://br.groups.yahoo.com/group/phprio).
 [^yahoo2009]: [Yahoo Groups PHPRio — captura de 19 de setembro de 2009, com histórico mensal de mensagens](https://web.archive.org/web/20090919042221/http://br.groups.yahoo.com:80/group/phprio/).
 [^yahoo2019]: [Yahoo Groups PHPRio — captura de 27 de novembro de 2019](https://web.archive.org/web/20191127201906/https://br.groups.yahoo.com/neo/groups/phprio/info).
-[^phpnow]: [BR-Linux — phpNow! em Petrópolis/RJ, 2007](https://br-linux.org/linux/phpnow-em-petropolisrj).
+[^phpnow]: [BR-Linux — phpNow! em Petrópolis/RJ, 2 de novembro de 2007](https://br-linux.org/linux/phpnow-em-petropolisrj), notícia enviada por Rodrigo Machado e publicada por Augusto Campos. [Cópia arquivada em 27 de janeiro de 2008](https://web.archive.org/web/20080127081842/http://br-linux.org:80/linux/phpnow-em-petropolisrj).
+[^phpnowsite]: [Site original do phpNow! — descrição do workshop, local e palestrantes anunciados](https://web.archive.org/web/20080820134003/http://www.calepino.com/phpnow), captura de 20 de agosto de 2008.
+[^phpnowpablo]: [Pablo Dall'Oglio — currículo, registro da palestra PHP-GTK2 no PHP Now! em 2007](https://www.escavador.com/sobre/7914399/pablo-dalloglio).
+[^phpnowrodrigo]: [Rodrigo Luis de Souza da Silva — currículo, registro da organização do phpNow! em 2007](https://www.escavador.com/sobre/1256471/rodrigo-luis-de-souza-da-silva).
+[^petrosite2011]: [Petrosite participa do PHP'n Rio 2011](https://www.petrosite.com.br/petrosite-participa-do-phpn-rio-2011), relato de participantes com referência ao phpNow! de 2007.
 [^migracao]: [Relato sobre a migração do Yahoo Groups para o Google Groups](https://t.me/phprio/68823).
 [^bruno]: [Depoimento de Bruno Araujo sobre a reorganização do PHPRio](https://t.me/phprio/68782).
 [^reativacao]: [BR-Linux — PHP: Reativado o grupo PHP-Rio, 1º de novembro de 2008](https://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php), informação enviada por Afonso Teixeira de Freitas e publicada por Augusto Campos. [Cópia preservada pela Wayback Machine em 13 de outubro de 2013](https://web.archive.org/web/20131013003723/http://br-linux.org/wparchive/2008/php-reativado-o-grupo-php-rio.php).
@@ -295,8 +301,19 @@ As datas e os números de participantes são históricos e não representam nece
 [^php2009]: [PHP.net — Arquivo oficial de notícias de 2009](https://www.php.net/archive/2009.php). [Equipe oficial do projeto Horde, com o perfil de Jan Schneider](https://www.horde.org/community/team/).
 [^email]: [Registro histórico do e-mail institucional de Vitor Mattos](https://t.me/phprio/51623).
 [^contas]: [Registro sobre as contas de e-mail institucionais do PHPRio](https://t.me/phprio/51622).
+[^phpnrio09site]: [Site original do PHP'n Rio 2009 — programação e informações do evento](https://web.archive.org/web/20090624232939/http://www.phprio.org:80/phpnrio09), captura de 24 de junho de 2009.
 [^php2010]: [PHP.net — Arquivo oficial de notícias de 2010](https://www.php.net/archive/2010.php).
+[^phpnrio10adiamento]: [Igor Feghali — Esclarecimentos sobre o PHP'n Rio 10, 19 de agosto de 2010](https://groups.google.com/g/phprio-org-announce/c/oziAmRGGt18/m/tJf8a_R0dEYJ).
+[^phpnrio10confirmacao]: [Igor Feghali — PHP'n Rio 10 - Confirmado, 3 de novembro de 2010](https://groups.google.com/g/phprio-org-announce/c/CKCDgsSe-nA/m/pv8bHi4r0F8J).
 [^php2011]: [PHP.net — Arquivo oficial de notícias de 2011](https://www.php.net/archive/2011.php).
+[^phpnrio11site]: [Site oficial do PHP'n Rio 2011 — palestrantes e temas](https://web.archive.org/web/20111006150352/http://phpnrio.com.br:80/), captura de 6 de outubro de 2011.
+[^phpnrio11grade]: [PHP'n Rio 2011 — grade de programação](https://web.archive.org/web/20120529231113/http://www.phpnrio.com.br:80/2011/grade), captura de 29 de maio de 2012.
+[^zeno2011]: [Zeno Rocha — Então é natal e ano novo também..., 27 de dezembro de 2011](https://zenorocha.com/entao-e-natal-e-ano-novo-tambem), relato do palestrante sobre sua participação.
+[^phpnrio12grade]: [PHP'n Rio 2012 — grade provisória de programação](https://web.archive.org/web/20121012235501/http://phpnrio.com.br:80/2012/grade-de-programacao), captura de 12 de outubro de 2012.
+[^wesley2012]: [PHP'n Rio 2012 — Zend Framework 2: O que há de novo, Wesley Willians](https://web.archive.org/web/20121128104932/http://phpnrio.com.br:80/2012/zend-framework-2-o-que-ha-de-novo).
+[^wesleyperfil]: [The Developer's Conference — perfil de Wesley Willians, fundador da Full Cycle e School of Net](https://thedevconf.com/palestrante/WesleyWilliansRamosdaSilva).
+[^thiago2012]: [PHP'n Rio 2012 — Assando uma Loja Virtual em 2h30 com CakePHP, Thiago Belém](https://web.archive.org/web/20121029124940/http://phpnrio.com.br:80/2012/assando-uma-loja-virtual-em-2h30-com-cakephp).
+[^suissa2012]: [PHP'n Rio 2012 — Conheça seu primeiro banco de dados orientado a grafos, Jean Carlo Nascimento](https://web.archive.org/web/20121019204737/http://phpnrio.com.br:80/2012/conheca-seu-primeiro-banco-de-dados-orientado-grafos).
 [^drupal]: [Drupal Groups — DrupalCamp Rio 2012 #2, anúncio de 20 de setembro de 2012](https://web.archive.org/web/20121103053608/http://groups.drupal.org:80/node/255783), preservado pela Wayback Machine.
 [^vitor]: [Vitor Mattos — Histórico profissional e apresentações](https://br.linkedin.com/in/vitormattos). [Catálogo de palestras](https://vitormattos.github.io/talks/).
 [^petropolis]: [Sou Petrópolis — Divulgação do meetup PHPRio de agosto de 2019](https://soupetropolis.com/2019/08/22/xterra-brasil-festival-de-pizza-e-mais-de-30-eventos-confirmados-para-este-fim-de-semana/).
