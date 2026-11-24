@@ -12,15 +12,17 @@ Naquele mesmo ano, a movimentação em torno do PHP também acontecia fora da ca
 
 Em setembro de 2008, o grupo do Yahoo contabilizava 72 associados. Apesar da existência desse espaço, a comunidade atravessava um período de pouca atividade. Segundo relatos recuperados posteriormente, havia dificuldades relacionadas à administração da lista e à entrada de novos participantes.[^yahoo2008][^migracao]
 
-Minha participação na comunidade vem dessa época, ainda na lista do Yahoo Groups. Recordo que, além das dificuldades de administração, circulavam preocupações e rumores sobre a continuidade do serviço. Fui uma das pessoas que incentivaram a criação de uma nova lista no Google Groups, para que a comunidade pudesse continuar suas atividades sem depender daquele canal. Essa lembrança se refere às discussões da época, não a um anúncio oficial de encerramento do Yahoo Groups.
+Minha participação na comunidade vem desde a época do Yahoo Groups. Em 2008, além das dificuldades com a administração da lista, lembro que havia uma preocupação entre os participantes quanto à continuidade da plataforma. Na época, fui uma das pessoas que incentivaram a criação de uma nova lista no Google Groups.
 
-Foi nesse contexto que profissionais como [Igor Feghali](https://github.com/ifeghali), [Raphael de Almeida](https://br.linkedin.com/in/raphaeldealmeida), [Igor Santos](https://github.com/igorsantos07), Libene e outros integrantes daquela geração se mobilizaram para reorganizar a comunidade, conforme recordado por Bruno Araujo em uma conversa realizada em 2018.[^bruno]
+A mudança coincidiu com um período de retomada das atividades do PHPRio. Foi nesse contexto que profissionais como [Igor Feghali](https://github.com/ifeghali), [Raphael de Almeida](https://br.linkedin.com/in/raphaeldealmeida), [Igor Santos](https://github.com/igorsantos07), Libene e outros integrantes daquela geração se mobilizaram para reorganizar a comunidade, conforme recordado por Bruno Araujo em uma conversa realizada em 2018.[^bruno]
 
 Em 1º de novembro de 2008, o portal BR-Linux publicou uma notícia anunciando a reativação do PHPRio. Entre os primeiros encontros presenciais dessa fase, realizavam-se reuniões em restaurantes, como o Outback do Shopping Tijuca, onde há registros de um encontro possivelmente realizado em 7 de novembro de 2008.[^reativacao][^cronologia]
 
-A comunidade passou então a utilizar o Google Groups, cuja atividade inicial remonta a novembro daquele ano. Gradualmente, a nova lista de discussão assumiu o papel anteriormente desempenhado pelo Yahoo Groups.[^migracao][^cronologia] Em uma pesquisa feita em 2018, identificamos 9 de novembro de 2008 como a data da primeira mensagem disponível no Google Groups. Há também um relato anterior sobre uma ata de reunião, de 7 de novembro, enviada por Igor Feghali.[^ata]
+A nova lista de discussão começou a ser utilizada em novembro de 2008. Em uma pesquisa feita em 2018, identificamos uma mensagem de 9 de novembro, além de um relato anterior sobre uma ata de reunião de 7 de novembro, enviada por Igor Feghali.[^cronologia][^ata]
 
-Ainda em dezembro de 2008, já existia um site institucional da comunidade, disponível no domínio phprio.org.[^site2008]
+Ainda naquele ano, o site do PHPRio, disponível no domínio phprio.org, já direcionava seus visitantes para o Google Groups, onde também foi criada uma lista destinada aos anúncios oficiais da comunidade, chamada PHP Rio Announce.[^site2008][^announce2009][^announcehistorico]
+
+Com o tempo, as discussões passaram a acontecer predominantemente na nova lista, enquanto o grupo do Yahoo foi perdendo atividade naturalmente.[^migracao][^yahoo2009]
 
 Essa reorganização aconteceu em um momento importante para o PHP no Brasil, marcado pelo fortalecimento das comunidades regionais e pelo surgimento de iniciativas de articulação nacional, como o PHP Brasil Comunidades (PHPBC), movimento registrado por [Rafael Dohms](https://github.com/rdohms) em uma retrospectiva publicada em janeiro de 2009.[^phpbc]
 
@@ -278,6 +280,7 @@ As datas e os números de participantes são históricos e não representam nece
 ## Referências e registros históricos
 
 [^yahoo2008]: [Yahoo Groups PHPRio — captura de 8 de setembro de 2008](https://web.archive.org/web/20080908004227/http://br.groups.yahoo.com/group/phprio).
+[^yahoo2009]: [Yahoo Groups PHPRio — captura de 19 de setembro de 2009, com histórico mensal de mensagens](https://web.archive.org/web/20090919042221/http://br.groups.yahoo.com:80/group/phprio/).
 [^yahoo2019]: [Yahoo Groups PHPRio — captura de 27 de novembro de 2019](https://web.archive.org/web/20191127201906/https://br.groups.yahoo.com/neo/groups/phprio/info).
 [^phpnow]: [BR-Linux — phpNow! em Petrópolis/RJ, 2007](https://br-linux.org/linux/phpnow-em-petropolisrj).
 [^migracao]: [Relato sobre a migração do Yahoo Groups para o Google Groups](https://t.me/phprio/68823).
@@ -286,6 +289,8 @@ As datas e os números de participantes são históricos e não representam nece
 [^cronologia]: [Cronologia histórica recuperada pelos integrantes do PHPRio em março de 2018](https://t.me/phprio/68820).
 [^ata]: [Relato sobre ata de reunião de novembro de 2008](https://t.me/phprio/51566).
 [^site2008]: [Antigo site institucional do PHPRio — dezembro de 2008](https://web.archive.org/web/20081204014419/http://www.phprio.org:80/).
+[^announce2009]: [PHP Rio Announce — captura de 13 de fevereiro de 2009](https://web.archive.org/web/20090213190941/http://groups.google.com:80/group/phprio-org-announce).
+[^announcehistorico]: [PHP Rio Announce — histórico de mensagens desde novembro de 2008](https://web.archive.org/web/20100203060555/http://groups.google.com:80/group/phprio-org-announce/about).
 [^phpbc]: [Rafael Dohms — 2008: Acontecimentos que mudaram a internet](https://doh.ms/2009/01/07/2008-acontecimentos-que-mudaram-a-internet/).
 [^php2009]: [PHP.net — Arquivo oficial de notícias de 2009](https://www.php.net/archive/2009.php).
 [^email]: [Registro histórico do e-mail institucional de Vitor Mattos](https://t.me/phprio/51623).
