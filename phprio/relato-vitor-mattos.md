@@ -147,13 +147,13 @@ Os nomes desses integrantes permanecem registrados no código-fonte oficial da l
 
 A experiência dos TestFests permitia que profissionais acostumados a utilizar PHP em seus projetos passassem também a compreender como a própria linguagem era desenvolvida, testada e mantida.
 
-### TranslateFest e a documentação em português
+### Translate Fest e a documentação em português
 
 Outra frente importante de contribuição foi a tradução da documentação oficial do PHP para o português brasileiro.
 
 O movimento de tradução da documentação contou com diferentes iniciativas no Brasil, incluindo o PHP TranslationFest Brasil, realizado em 2014, conforme registros apresentados por [Rogerio Prado de Jesus](https://github.com/rogeriopradoj), e outras atividades promovidas pelas comunidades regionais.[^translationfest]
 
-No PHPRio, os TranslateFests, também conhecidos como TranslationFests, integravam as iniciativas de colaboração com a linguagem. Há registros de discussões sobre essas atividades no grupo da comunidade desde abril de 2016. O incentivo à realização desses encontros permaneceu ao longo dos anos, como parte das possibilidades de atuação voluntária dentro da comunidade.[^translate2016][^voluntariado]
+No PHPRio, os encontros dedicados à tradução do manual eram chamados de Translate Fest. Raphael Almeida fez referência a essa atividade em abril de 2016, e em agosto de 2020 a organização de novos encontros de tradução voltou a ser proposta entre as iniciativas de colaboração voluntária da comunidade.[^translate2016][^voluntariado]
 
 Em 24 de junho de 2022, durante um meetup realizado no Senac, no Centro do Rio de Janeiro, Lucas Azevedo apresentou uma palestra dedicada à contribuição com a tradução da documentação oficial do PHP.[^traducaomeetup]
 
@@ -165,7 +165,7 @@ Além disso, trata-se de uma forma de contribuição que permite a participaçã
 
 ### A cultura de contribuição
 
-Os TestFests, TranslateFests, coding dojos e demais atividades práticas ajudaram a construir uma cultura na qual os integrantes da comunidade não eram apenas consumidores de tecnologia, mas potenciais contribuidores.
+Os TestFests, encontros de tradução do manual, coding dojos e demais atividades práticas ajudaram a construir uma cultura na qual os integrantes da comunidade não eram apenas consumidores de tecnologia, mas potenciais contribuidores.
 
 Essa aproximação com o desenvolvimento colaborativo também se refletiu na participação em outras iniciativas de software livre, como o FLISoL, o DrupalCamp e eventos voltados à formação de profissionais e ao compartilhamento de conhecimento.
 
@@ -356,7 +356,7 @@ As datas e os números de participantes são históricos e não representam nece
 [^testcommit]: [PHP Source — Commit de integração do teste da função date_timestamp_get(), abril de 2019](https://github.com/php/php-src/commit/01cdae054b3ce587d5821c5d3fdd6fff25f32c7d).
 [^testcreditos8]: [PHP Source — Créditos dos oito contribuidores no PHP 8.3.35](https://github.com/php/php-src/blob/php-8.3.35/ext/date/tests/date_timestamp_get.phpt).
 [^translationfest]: [Rogerio Prado de Jesus — Testes, Manual e Tradução: Como contribuir com a linguagem PHP, 2017](https://speakerdeck.com/rogeriopradoj/testes-manual-e-traducao-como-contribuir-com-a-linguagem-php-e-conhecer-o-php-testfest-2017-php-community-summit-2017).
-[^translate2016]: [Registro sobre TranslateFest no PHPRio, abril de 2016](https://t.me/phprio/4640).
+[^translate2016]: [Raphael Almeida — menção ao Translate Fest no PHPRio, 13 de abril de 2016](https://t.me/phprio/4640).
 [^voluntariado]: [PHPRio — Propostas de contribuição voluntária com a comunidade e com o PHP](https://t.me/phprio/142015).
 [^traducaomeetup]: [Divulgação do meetup sobre tradução da documentação oficial do PHP, junho de 2022](https://t.me/phprio/158588).
 [^doc144]: [PHP Documentation — Pull request #144, atualização da tradução brasileira](https://github.com/php/doc-pt_br/pull/144).
